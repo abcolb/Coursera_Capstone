@@ -1,3 +1,3 @@
 # Coursera Capstone
 
-Placeholder for IBM Data Science Professional Certificate Capstone project.
+IBM Data Science Professional Certificate Capstone project.
