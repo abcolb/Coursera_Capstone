@@ -1,11 +1,9 @@
 import pandas as pd
 import numpy as np
-import io
+
 import requests
 
 import category_encoders as ce
-
-# from yellowbrick.cluster import KElbowVisualizer
 
 CLIENT_ID = '' # your Foursquare ID
 CLIENT_SECRET = '' # your Foursquare Secret
@@ -13,9 +11,9 @@ VERSION = '20180605' # Foursquare API version
 
 # Define Foursquare `/explore` helper
 
-def fetch_venues(names, latitudes, longitudes, radius=250, LIMIT=100):
+def fetch_venues(neighborhoods, cities, latitudes, longitudes, radius=250, LIMIT=100):
     venues_list=[]
-    for name, lat, lng in zip(names, latitudes, longitudes):            
+    for n, c, lat, lng in zip(neighborhoods, cities, latitudes, longitudes):            
         # create the API request URL
         url = 'https://api.foursquare.com/v2/venues/explore?&client_id={}&client_secret={}&v={}&ll={},{}&radius={}&limit={}'.format(
             CLIENT_ID, 
@@ -30,7 +28,8 @@ def fetch_venues(names, latitudes, longitudes, radius=250, LIMIT=100):
             items = results['groups'][0]['items']
             if results and items:
                 venues_list.append([(
-                    name, 
+                    n,
+                    c,
                     lat, 
                     lng, 
                     v['venue']['name'],
@@ -38,12 +37,41 @@ def fetch_venues(names, latitudes, longitudes, radius=250, LIMIT=100):
 
     nearby_venues = pd.DataFrame([item for venue_list in venues_list for item in venue_list])
     nearby_venues.columns = ['Neighborhood', 
+                    'City',
                   'Latitude', 
                   'Longitude', 
                   'Venue',  
                   'Venue Category']
     
     return(nearby_venues)
+
+def fetch_venue_categories():
+    url = 'https://api.foursquare.com/v2/venues/categories?client_id={}&client_secret={}&v={}'.format(
+            CLIENT_ID, 
+            CLIENT_SECRET, 
+            VERSION, 
+    )
+    results = requests.get(url).json()["response"]
+
+    res = []
+    if results and results['categories']:
+        for r in results['categories']:
+            
+            def append_categories(categories, category):
+                for c in categories:
+                    subcategory = c['name']
+                    nested = len(c['categories'])
+                    if nested:
+                        append_categories(c['categories'], category)
+                    res.append({'name': subcategory, 'category': category})
+    
+
+            category = r['name']
+            append_categories(r['categories'], category)
+
+    return res
+
+
 
 def return_most_common_venues(row, num_top_venues):
     row_categories = row.iloc[1:]

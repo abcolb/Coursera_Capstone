@@ -1,0 +1,928 @@
+,name,category
+0,Amphitheater,Arts & Entertainment
+1,Aquarium,Arts & Entertainment
+2,Arcade,Arts & Entertainment
+3,Art Gallery,Arts & Entertainment
+4,Bowling Alley,Arts & Entertainment
+5,Casino,Arts & Entertainment
+6,Circus,Arts & Entertainment
+7,Comedy Club,Arts & Entertainment
+8,Concert Hall,Arts & Entertainment
+9,Country Dance Club,Arts & Entertainment
+10,Disc Golf,Arts & Entertainment
+11,Exhibit,Arts & Entertainment
+12,General Entertainment,Arts & Entertainment
+13,Go Kart Track,Arts & Entertainment
+14,Historic Site,Arts & Entertainment
+15,Karaoke Box,Arts & Entertainment
+16,Laser Tag,Arts & Entertainment
+17,Memorial Site,Arts & Entertainment
+18,Mini Golf,Arts & Entertainment
+19,Drive-in Theater,Arts & Entertainment
+20,Indie Movie Theater,Arts & Entertainment
+21,Multiplex,Arts & Entertainment
+22,Movie Theater,Arts & Entertainment
+23,Art Museum,Arts & Entertainment
+24,Erotic Museum,Arts & Entertainment
+25,History Museum,Arts & Entertainment
+26,Planetarium,Arts & Entertainment
+27,Science Museum,Arts & Entertainment
+28,Museum,Arts & Entertainment
+29,Jazz Club,Arts & Entertainment
+30,Piano Bar,Arts & Entertainment
+31,Rock Club,Arts & Entertainment
+32,Music Venue,Arts & Entertainment
+33,Pachinko Parlor,Arts & Entertainment
+34,Dance Studio,Arts & Entertainment
+35,Indie Theater,Arts & Entertainment
+36,Opera House,Arts & Entertainment
+37,Theater,Arts & Entertainment
+38,Performing Arts Venue,Arts & Entertainment
+39,Pool Hall,Arts & Entertainment
+40,Outdoor Sculpture,Arts & Entertainment
+41,Street Art,Arts & Entertainment
+42,Public Art,Arts & Entertainment
+43,Racecourse,Arts & Entertainment
+44,Racetrack,Arts & Entertainment
+45,Roller Rink,Arts & Entertainment
+46,Salsa Club,Arts & Entertainment
+47,Samba School,Arts & Entertainment
+48,Baseball Stadium,Arts & Entertainment
+49,Basketball Stadium,Arts & Entertainment
+50,Cricket Ground,Arts & Entertainment
+51,Football Stadium,Arts & Entertainment
+52,Hockey Arena,Arts & Entertainment
+53,Rugby Stadium,Arts & Entertainment
+54,Soccer Stadium,Arts & Entertainment
+55,Tennis Stadium,Arts & Entertainment
+56,Track Stadium,Arts & Entertainment
+57,Stadium,Arts & Entertainment
+58,Theme Park Ride / Attraction,Arts & Entertainment
+59,Theme Park,Arts & Entertainment
+60,Tour Provider,Arts & Entertainment
+61,Water Park,Arts & Entertainment
+62,Zoo Exhibit,Arts & Entertainment
+63,Zoo,Arts & Entertainment
+64,College Arts Building,College & University
+65,College Communications Building,College & University
+66,College Engineering Building,College & University
+67,College History Building,College & University
+68,College Math Building,College & University
+69,College Science Building,College & University
+70,College Technology Building,College & University
+71,College Academic Building,College & University
+72,College Administrative Building,College & University
+73,College Auditorium,College & University
+74,College Bookstore,College & University
+75,College Cafeteria,College & University
+76,College Classroom,College & University
+77,College Gym,College & University
+78,College Lab,College & University
+79,College Library,College & University
+80,College Quad,College & University
+81,College Rec Center,College & University
+82,College Residence Hall,College & University
+83,College Baseball Diamond,College & University
+84,College Basketball Court,College & University
+85,College Cricket Pitch,College & University
+86,College Football Field,College & University
+87,College Hockey Rink,College & University
+88,College Soccer Field,College & University
+89,College Tennis Court,College & University
+90,College Track,College & University
+91,College Stadium,College & University
+92,College Theater,College & University
+93,Community College,College & University
+94,Fraternity House,College & University
+95,General College & University,College & University
+96,Law School,College & University
+97,Medical School,College & University
+98,Sorority House,College & University
+99,Student Center,College & University
+100,Trade School,College & University
+101,University,College & University
+102,Christmas Market,Event
+103,Conference,Event
+104,Convention,Event
+105,Festival,Event
+106,Line / Queue,Event
+107,Music Festival,Event
+108,Other Event,Event
+109,Parade,Event
+110,Sporting Event,Event
+111,Stoop Sale,Event
+112,Street Fair,Event
+113,Trade Fair,Event
+114,Afghan Restaurant,Food
+115,Ethiopian Restaurant,Food
+116,African Restaurant,Food
+117,New American Restaurant,Food
+118,American Restaurant,Food
+119,Burmese Restaurant,Food
+120,Cambodian Restaurant,Food
+121,Anhui Restaurant,Food
+122,Beijing Restaurant,Food
+123,Cantonese Restaurant,Food
+124,Cha Chaan Teng,Food
+125,Chinese Aristocrat Restaurant,Food
+126,Chinese Breakfast Place,Food
+127,Dim Sum Restaurant,Food
+128,Dongbei Restaurant,Food
+129,Fujian Restaurant,Food
+130,Guizhou Restaurant,Food
+131,Hainan Restaurant,Food
+132,Hakka Restaurant,Food
+133,Henan Restaurant,Food
+134,Hong Kong Restaurant,Food
+135,Huaiyang Restaurant,Food
+136,Hubei Restaurant,Food
+137,Hunan Restaurant,Food
+138,Imperial Restaurant,Food
+139,Jiangsu Restaurant,Food
+140,Jiangxi Restaurant,Food
+141,Macanese Restaurant,Food
+142,Manchu Restaurant,Food
+143,Peking Duck Restaurant,Food
+144,Shaanxi Restaurant,Food
+145,Shandong Restaurant,Food
+146,Shanghai Restaurant,Food
+147,Shanxi Restaurant,Food
+148,Szechuan Restaurant,Food
+149,Taiwanese Restaurant,Food
+150,Tianjin Restaurant,Food
+151,Xinjiang Restaurant,Food
+152,Yunnan Restaurant,Food
+153,Zhejiang Restaurant,Food
+154,Chinese Restaurant,Food
+155,Filipino Restaurant,Food
+156,Himalayan Restaurant,Food
+157,Hotpot Restaurant,Food
+158,Acehnese Restaurant,Food
+159,Balinese Restaurant,Food
+160,Betawinese Restaurant,Food
+161,Indonesian Meatball Place,Food
+162,Javanese Restaurant,Food
+163,Manadonese Restaurant,Food
+164,Padangnese Restaurant,Food
+165,Sundanese Restaurant,Food
+166,Indonesian Restaurant,Food
+167,Donburi Restaurant,Food
+168,Japanese Curry Restaurant,Food
+169,Kaiseki Restaurant,Food
+170,Kushikatsu Restaurant,Food
+171,Monjayaki Restaurant,Food
+172,Nabe Restaurant,Food
+173,Okonomiyaki Restaurant,Food
+174,Ramen Restaurant,Food
+175,Shabu-Shabu Restaurant,Food
+176,Soba Restaurant,Food
+177,Sukiyaki Restaurant,Food
+178,Sushi Restaurant,Food
+179,Takoyaki Place,Food
+180,Tempura Restaurant,Food
+181,Tonkatsu Restaurant,Food
+182,Udon Restaurant,Food
+183,Unagi Restaurant,Food
+184,Wagashi Place,Food
+185,Yakitori Restaurant,Food
+186,Yoshoku Restaurant,Food
+187,Japanese Restaurant,Food
+188,Bossam/Jokbal Restaurant,Food
+189,Bunsik Restaurant,Food
+190,Gukbap Restaurant,Food
+191,Janguh Restaurant,Food
+192,Samgyetang Restaurant,Food
+193,Korean Restaurant,Food
+194,Mamak Restaurant,Food
+195,Malay Restaurant,Food
+196,Mongolian Restaurant,Food
+197,Noodle House,Food
+198,Satay Restaurant,Food
+199,Som Tum Restaurant,Food
+200,Thai Restaurant,Food
+201,Tibetan Restaurant,Food
+202,Vietnamese Restaurant,Food
+203,Asian Restaurant,Food
+204,Australian Restaurant,Food
+205,Austrian Restaurant,Food
+206,BBQ Joint,Food
+207,Bagel Shop,Food
+208,Bakery,Food
+209,Belgian Restaurant,Food
+210,Bistro,Food
+211,Breakfast Spot,Food
+212,Bubble Tea Shop,Food
+213,Buffet,Food
+214,Burger Joint,Food
+215,Cafeteria,Food
+216,Café,Food
+217,Cajun / Creole Restaurant,Food
+218,Cuban Restaurant,Food
+219,Caribbean Restaurant,Food
+220,Caucasian Restaurant,Food
+221,Coffee Shop,Food
+222,Comfort Food Restaurant,Food
+223,Creperie,Food
+224,Czech Restaurant,Food
+225,Deli / Bodega,Food
+226,Cupcake Shop,Food
+227,Frozen Yogurt Shop,Food
+228,Ice Cream Shop,Food
+229,Pastry Shop,Food
+230,Pie Shop,Food
+231,Dessert Shop,Food
+232,Diner,Food
+233,Donut Shop,Food
+234,Dumpling Restaurant,Food
+235,Dutch Restaurant,Food
+236,Belarusian Restaurant,Food
+237,Bosnian Restaurant,Food
+238,Bulgarian Restaurant,Food
+239,Romanian Restaurant,Food
+240,Tatar Restaurant,Food
+241,Eastern European Restaurant,Food
+242,English Restaurant,Food
+243,Falafel Restaurant,Food
+244,Fast Food Restaurant,Food
+245,Fish & Chips Shop,Food
+246,Fondue Restaurant,Food
+247,Food Court,Food
+248,Food Stand,Food
+249,Food Truck,Food
+250,Alsatian Restaurant,Food
+251,Auvergne Restaurant,Food
+252,Basque Restaurant,Food
+253,Brasserie,Food
+254,Breton Restaurant,Food
+255,Burgundian Restaurant,Food
+256,Catalan Restaurant,Food
+257,Ch'ti Restaurant,Food
+258,Corsican Restaurant,Food
+259,Estaminet,Food
+260,Labour Canteen,Food
+261,Lyonese Bouchon,Food
+262,Norman Restaurant,Food
+263,Provençal Restaurant,Food
+264,Savoyard Restaurant,Food
+265,Southwestern French Restaurant,Food
+266,French Restaurant,Food
+267,Fried Chicken Joint,Food
+268,Friterie,Food
+269,Gastropub,Food
+270,Apple Wine Pub,Food
+271,Bavarian Restaurant,Food
+272,Bratwurst Joint,Food
+273,Currywurst Joint,Food
+274,Franconian Restaurant,Food
+275,German Pop-Up Restaurant,Food
+276,Palatine Restaurant,Food
+277,Rhenisch Restaurant,Food
+278,Schnitzel Restaurant,Food
+279,Silesian Restaurant,Food
+280,Swabian Restaurant,Food
+281,German Restaurant,Food
+282,Gluten-free Restaurant,Food
+283,Bougatsa Shop,Food
+284,Cretan Restaurant,Food
+285,Fish Taverna,Food
+286,Grilled Meat Restaurant,Food
+287,Kafenio,Food
+288,Magirio,Food
+289,Meze Restaurant,Food
+290,Modern Greek Restaurant,Food
+291,Ouzeri,Food
+292,Patsa Restaurant,Food
+293,Souvlaki Shop,Food
+294,Taverna,Food
+295,Tsipouro Restaurant,Food
+296,Greek Restaurant,Food
+297,Halal Restaurant,Food
+298,Poke Place,Food
+299,Hawaiian Restaurant,Food
+300,Hot Dog Joint,Food
+301,Hungarian Restaurant,Food
+302,Andhra Restaurant,Food
+303,Awadhi Restaurant,Food
+304,Bengali Restaurant,Food
+305,Chaat Place,Food
+306,Chettinad Restaurant,Food
+307,Dhaba,Food
+308,Dosa Place,Food
+309,Goan Restaurant,Food
+310,Gujarati Restaurant,Food
+311,Hyderabadi Restaurant,Food
+312,Indian Chinese Restaurant,Food
+313,Indian Sweet Shop,Food
+314,Irani Cafe,Food
+315,Jain Restaurant,Food
+316,Karnataka Restaurant,Food
+317,Kerala Restaurant,Food
+318,Maharashtrian Restaurant,Food
+319,Mughlai Restaurant,Food
+320,Multicuisine Indian Restaurant,Food
+321,North Indian Restaurant,Food
+322,Northeast Indian Restaurant,Food
+323,Parsi Restaurant,Food
+324,Punjabi Restaurant,Food
+325,Rajasthani Restaurant,Food
+326,South Indian Restaurant,Food
+327,Udupi Restaurant,Food
+328,Indian Restaurant,Food
+329,Irish Pub,Food
+330,Abruzzo Restaurant,Food
+331,Agriturismo,Food
+332,Aosta Restaurant,Food
+333,Basilicata Restaurant,Food
+334,Calabria Restaurant,Food
+335,Campanian Restaurant,Food
+336,Emilia Restaurant,Food
+337,Friuli Restaurant,Food
+338,Ligurian Restaurant,Food
+339,Lombard Restaurant,Food
+340,Malga,Food
+341,Marche Restaurant,Food
+342,Molise Restaurant,Food
+343,Piadineria,Food
+344,Piedmontese Restaurant,Food
+345,Puglia Restaurant,Food
+346,Romagna Restaurant,Food
+347,Roman Restaurant,Food
+348,Sardinian Restaurant,Food
+349,Sicilian Restaurant,Food
+350,South Tyrolean Restaurant,Food
+351,Trattoria/Osteria,Food
+352,Trentino Restaurant,Food
+353,Tuscan Restaurant,Food
+354,Umbrian Restaurant,Food
+355,Veneto Restaurant,Food
+356,Italian Restaurant,Food
+357,Kosher Restaurant,Food
+358,Jewish Restaurant,Food
+359,Juice Bar,Food
+360,Kebab Restaurant,Food
+361,Arepa Restaurant,Food
+362,Empanada Restaurant,Food
+363,Salvadoran Restaurant,Food
+364,Argentinian Restaurant,Food
+365,Acai House,Food
+366,Baiano Restaurant,Food
+367,Central Brazilian Restaurant,Food
+368,Churrascaria,Food
+369,Empada House,Food
+370,Goiano Restaurant,Food
+371,Mineiro Restaurant,Food
+372,Northeastern Brazilian Restaurant,Food
+373,Northern Brazilian Restaurant,Food
+374,Pastelaria,Food
+375,Southeastern Brazilian Restaurant,Food
+376,Southern Brazilian Restaurant,Food
+377,Tapiocaria,Food
+378,Brazilian Restaurant,Food
+379,Colombian Restaurant,Food
+380,Peruvian Restaurant,Food
+381,Venezuelan Restaurant,Food
+382,South American Restaurant,Food
+383,Latin American Restaurant,Food
+384,Mac & Cheese Joint,Food
+385,Moroccan Restaurant,Food
+386,Mediterranean Restaurant,Food
+387,Botanero,Food
+388,Burrito Place,Food
+389,Taco Place,Food
+390,Tex-Mex Restaurant,Food
+391,Yucatecan Restaurant,Food
+392,Mexican Restaurant,Food
+393,Egyptian Restaurant,Food
+394,Iraqi Restaurant,Food
+395,Israeli Restaurant,Food
+396,Kurdish Restaurant,Food
+397,Lebanese Restaurant,Food
+398,Ash and Haleem Place,Food
+399,Dizi Place,Food
+400,Gilaki Restaurant,Food
+401,Jegaraki,Food
+402,Tabbakhi,Food
+403,Persian Restaurant,Food
+404,Shawarma Place,Food
+405,Syrian Restaurant,Food
+406,Yemeni Restaurant,Food
+407,Middle Eastern Restaurant,Food
+408,Modern European Restaurant,Food
+409,Molecular Gastronomy Restaurant,Food
+410,Pakistani Restaurant,Food
+411,Pet Café,Food
+412,Pizza Place,Food
+413,Polish Restaurant,Food
+414,Portuguese Restaurant,Food
+415,Poutine Place,Food
+416,Restaurant,Food
+417,Blini House,Food
+418,Pelmeni House,Food
+419,Russian Restaurant,Food
+420,Salad Place,Food
+421,Sandwich Place,Food
+422,Scandinavian Restaurant,Food
+423,Scottish Restaurant,Food
+424,Seafood Restaurant,Food
+425,Slovak Restaurant,Food
+426,Snack Place,Food
+427,Soup Place,Food
+428,Southern / Soul Food Restaurant,Food
+429,Paella Restaurant,Food
+430,Tapas Restaurant,Food
+431,Spanish Restaurant,Food
+432,Sri Lankan Restaurant,Food
+433,Steakhouse,Food
+434,Swiss Restaurant,Food
+435,Tea Room,Food
+436,Theme Restaurant,Food
+437,Truck Stop,Food
+438,Borek Place,Food
+439,Cigkofte Place,Food
+440,Doner Restaurant,Food
+441,Gozleme Place,Food
+442,Kofte Place,Food
+443,Kokoreç Restaurant,Food
+444,Kumpir Restaurant,Food
+445,Kumru Restaurant,Food
+446,Manti Place,Food
+447,Meyhane,Food
+448,Pide Place,Food
+449,Pilavcı,Food
+450,Söğüş Place,Food
+451,Tantuni Restaurant,Food
+452,Turkish Coffeehouse,Food
+453,Turkish Home Cooking Restaurant,Food
+454,Çöp Şiş Place,Food
+455,Turkish Restaurant,Food
+456,Varenyky restaurant,Food
+457,West-Ukrainian Restaurant,Food
+458,Ukrainian Restaurant,Food
+459,Vegetarian / Vegan Restaurant,Food
+460,Wings Joint,Food
+461,Beach Bar,Nightlife Spot
+462,Beer Bar,Nightlife Spot
+463,Beer Garden,Nightlife Spot
+464,Champagne Bar,Nightlife Spot
+465,Cocktail Bar,Nightlife Spot
+466,Dive Bar,Nightlife Spot
+467,Gay Bar,Nightlife Spot
+468,Hookah Bar,Nightlife Spot
+469,Hotel Bar,Nightlife Spot
+470,Karaoke Bar,Nightlife Spot
+471,Pub,Nightlife Spot
+472,Sake Bar,Nightlife Spot
+473,Speakeasy,Nightlife Spot
+474,Sports Bar,Nightlife Spot
+475,Tiki Bar,Nightlife Spot
+476,Whisky Bar,Nightlife Spot
+477,Wine Bar,Nightlife Spot
+478,Bar,Nightlife Spot
+479,Brewery,Nightlife Spot
+480,Lounge,Nightlife Spot
+481,Night Market,Nightlife Spot
+482,Nightclub,Nightlife Spot
+483,Other Nightlife,Nightlife Spot
+484,Strip Club,Nightlife Spot
+485,Badminton Court,Outdoors & Recreation
+486,Baseball Field,Outdoors & Recreation
+487,Basketball Court,Outdoors & Recreation
+488,Bowling Green,Outdoors & Recreation
+489,Curling Ice,Outdoors & Recreation
+490,Golf Course,Outdoors & Recreation
+491,Golf Driving Range,Outdoors & Recreation
+492,Boxing Gym,Outdoors & Recreation
+493,Climbing Gym,Outdoors & Recreation
+494,Cycle Studio,Outdoors & Recreation
+495,Gym Pool,Outdoors & Recreation
+496,Gymnastics Gym,Outdoors & Recreation
+497,Gym,Outdoors & Recreation
+498,Martial Arts Dojo,Outdoors & Recreation
+499,Outdoor Gym,Outdoors & Recreation
+500,Pilates Studio,Outdoors & Recreation
+501,Track,Outdoors & Recreation
+502,Weight Loss Center,Outdoors & Recreation
+503,Yoga Studio,Outdoors & Recreation
+504,Gym / Fitness Center,Outdoors & Recreation
+505,Hockey Field,Outdoors & Recreation
+506,Hockey Rink,Outdoors & Recreation
+507,Paintball Field,Outdoors & Recreation
+508,Rugby Pitch,Outdoors & Recreation
+509,Skate Park,Outdoors & Recreation
+510,Skating Rink,Outdoors & Recreation
+511,Soccer Field,Outdoors & Recreation
+512,Sports Club,Outdoors & Recreation
+513,Squash Court,Outdoors & Recreation
+514,Tennis Court,Outdoors & Recreation
+515,Volleyball Court,Outdoors & Recreation
+516,Athletics & Sports,Outdoors & Recreation
+517,Bathing Area,Outdoors & Recreation
+518,Bay,Outdoors & Recreation
+519,Nudist Beach,Outdoors & Recreation
+520,Surf Spot,Outdoors & Recreation
+521,Beach,Outdoors & Recreation
+522,Bike Trail,Outdoors & Recreation
+523,Botanical Garden,Outdoors & Recreation
+524,Bridge,Outdoors & Recreation
+525,Campground,Outdoors & Recreation
+526,Canal Lock,Outdoors & Recreation
+527,Canal,Outdoors & Recreation
+528,Castle,Outdoors & Recreation
+529,Cave,Outdoors & Recreation
+530,Cemetery,Outdoors & Recreation
+531,Dive Spot,Outdoors & Recreation
+532,Dog Run,Outdoors & Recreation
+533,Farm,Outdoors & Recreation
+534,Field,Outdoors & Recreation
+535,Fishing Spot,Outdoors & Recreation
+536,Forest,Outdoors & Recreation
+537,Fountain,Outdoors & Recreation
+538,Garden,Outdoors & Recreation
+539,Gun Range,Outdoors & Recreation
+540,Harbor / Marina,Outdoors & Recreation
+541,Hill,Outdoors & Recreation
+542,Hot Spring,Outdoors & Recreation
+543,Indoor Play Area,Outdoors & Recreation
+544,Island,Outdoors & Recreation
+545,Lake,Outdoors & Recreation
+546,Lighthouse,Outdoors & Recreation
+547,Mountain Hut,Outdoors & Recreation
+548,Mountain,Outdoors & Recreation
+549,National Park,Outdoors & Recreation
+550,Nature Preserve,Outdoors & Recreation
+551,Other Great Outdoors,Outdoors & Recreation
+552,Palace,Outdoors & Recreation
+553,Park,Outdoors & Recreation
+554,Pedestrian Plaza,Outdoors & Recreation
+555,Playground,Outdoors & Recreation
+556,Plaza,Outdoors & Recreation
+557,Pool,Outdoors & Recreation
+558,Rafting,Outdoors & Recreation
+559,Recreation Center,Outdoors & Recreation
+560,Reservoir,Outdoors & Recreation
+561,River,Outdoors & Recreation
+562,Rock Climbing Spot,Outdoors & Recreation
+563,Roof Deck,Outdoors & Recreation
+564,Scenic Lookout,Outdoors & Recreation
+565,Sculpture Garden,Outdoors & Recreation
+566,Apres Ski Bar,Outdoors & Recreation
+567,Ski Chairlift,Outdoors & Recreation
+568,Ski Chalet,Outdoors & Recreation
+569,Ski Lodge,Outdoors & Recreation
+570,Ski Trail,Outdoors & Recreation
+571,Ski Area,Outdoors & Recreation
+572,Skydiving Drop Zone,Outdoors & Recreation
+573,Stables,Outdoors & Recreation
+574,State / Provincial Park,Outdoors & Recreation
+575,City,Outdoors & Recreation
+576,County,Outdoors & Recreation
+577,Country,Outdoors & Recreation
+578,Neighborhood,Outdoors & Recreation
+579,State,Outdoors & Recreation
+580,Town,Outdoors & Recreation
+581,Village,Outdoors & Recreation
+582,States & Municipalities,Outdoors & Recreation
+583,Summer Camp,Outdoors & Recreation
+584,Trail,Outdoors & Recreation
+585,Tree,Outdoors & Recreation
+586,Vineyard,Outdoors & Recreation
+587,Volcano,Outdoors & Recreation
+588,Waterfall,Outdoors & Recreation
+589,Waterfront,Outdoors & Recreation
+590,Well,Outdoors & Recreation
+591,Windmill,Outdoors & Recreation
+592,Animal Shelter,Professional & Other Places
+593,Art Studio,Professional & Other Places
+594,Auditorium,Professional & Other Places
+595,Ballroom,Professional & Other Places
+596,Building,Professional & Other Places
+597,Business Center,Professional & Other Places
+598,Club House,Professional & Other Places
+599,Community Center,Professional & Other Places
+600,Meeting Room,Professional & Other Places
+601,Convention Center,Professional & Other Places
+602,Cultural Center,Professional & Other Places
+603,Distillery,Professional & Other Places
+604,Distribution Center,Professional & Other Places
+605,Outdoor Event Space,Professional & Other Places
+606,Event Space,Professional & Other Places
+607,Factory,Professional & Other Places
+608,Fair,Professional & Other Places
+609,Funeral Home,Professional & Other Places
+610,Capitol Building,Professional & Other Places
+611,City Hall,Professional & Other Places
+612,Courthouse,Professional & Other Places
+613,Embassy / Consulate,Professional & Other Places
+614,Fire Station,Professional & Other Places
+615,Monument / Landmark,Professional & Other Places
+616,Police Station,Professional & Other Places
+617,Town Hall,Professional & Other Places
+618,Government Building,Professional & Other Places
+619,Industrial Estate,Professional & Other Places
+620,Laboratory,Professional & Other Places
+621,Library,Professional & Other Places
+622,Acupuncturist,Professional & Other Places
+623,Alternative Healer,Professional & Other Places
+624,Chiropractor,Professional & Other Places
+625,Dentist's Office,Professional & Other Places
+626,Doctor's Office,Professional & Other Places
+627,Emergency Room,Professional & Other Places
+628,Eye Doctor,Professional & Other Places
+629,Hospital Ward,Professional & Other Places
+630,Hospital,Professional & Other Places
+631,Maternity Clinic,Professional & Other Places
+632,Medical Lab,Professional & Other Places
+633,Mental Health Office,Professional & Other Places
+634,Nutritionist,Professional & Other Places
+635,Physical Therapist,Professional & Other Places
+636,Rehab Center,Professional & Other Places
+637,Urgent Care Center,Professional & Other Places
+638,Veterinarian,Professional & Other Places
+639,Medical Center,Professional & Other Places
+640,Military Base,Professional & Other Places
+641,Non-Profit,Professional & Other Places
+642,Observatory,Professional & Other Places
+643,Advertising Agency,Professional & Other Places
+644,Campaign Office,Professional & Other Places
+645,Conference Room,Professional & Other Places
+646,Corporate Amenity,Professional & Other Places
+647,Corporate Cafeteria,Professional & Other Places
+648,Corporate Coffee Shop,Professional & Other Places
+649,Coworking Space,Professional & Other Places
+650,Tech Startup,Professional & Other Places
+651,Office,Professional & Other Places
+652,Parking,Professional & Other Places
+653,Post Office,Professional & Other Places
+654,Power Plant,Professional & Other Places
+655,Prison,Professional & Other Places
+656,Radio Station,Professional & Other Places
+657,Recruiting Agency,Professional & Other Places
+658,Research Station,Professional & Other Places
+659,Adult Education Center,Professional & Other Places
+660,Circus School,Professional & Other Places
+661,Cooking School,Professional & Other Places
+662,Driving School,Professional & Other Places
+663,Elementary School,Professional & Other Places
+664,Flight School,Professional & Other Places
+665,High School,Professional & Other Places
+666,Language School,Professional & Other Places
+667,Middle School,Professional & Other Places
+668,Music School,Professional & Other Places
+669,Nursery School,Professional & Other Places
+670,Preschool,Professional & Other Places
+671,Private School,Professional & Other Places
+672,Religious School,Professional & Other Places
+673,Swim School,Professional & Other Places
+674,School,Professional & Other Places
+675,Social Club,Professional & Other Places
+676,Buddhist Temple,Professional & Other Places
+677,Cemevi,Professional & Other Places
+678,Church,Professional & Other Places
+679,Confucian Temple,Professional & Other Places
+680,Hindu Temple,Professional & Other Places
+681,Kingdom Hall,Professional & Other Places
+682,Monastery,Professional & Other Places
+683,Mosque,Professional & Other Places
+684,Prayer Room,Professional & Other Places
+685,Shrine,Professional & Other Places
+686,Sikh Temple,Professional & Other Places
+687,Synagogue,Professional & Other Places
+688,Temple,Professional & Other Places
+689,Terreiro,Professional & Other Places
+690,Spiritual Center,Professional & Other Places
+691,TV Station,Professional & Other Places
+692,Voting Booth,Professional & Other Places
+693,Warehouse,Professional & Other Places
+694,Waste Facility,Professional & Other Places
+695,Wedding Hall,Professional & Other Places
+696,Winery,Professional & Other Places
+697,Assisted Living,Residence
+698,Home (private),Residence
+699,Housing Development,Residence
+700,Residential Building (Apartment / Condo),Residence
+701,Trailer Park,Residence
+702,ATM,Shop & Service
+703,Adult Boutique,Shop & Service
+704,Antique Shop,Shop & Service
+705,Arts & Crafts Store,Shop & Service
+706,Astrologer,Shop & Service
+707,Auto Dealership,Shop & Service
+708,Auto Garage,Shop & Service
+709,Auto Workshop,Shop & Service
+710,Automotive Shop,Shop & Service
+711,Baby Store,Shop & Service
+712,Bank,Shop & Service
+713,Bath House,Shop & Service
+714,Batik Shop,Shop & Service
+715,Betting Shop,Shop & Service
+716,Big Box Store,Shop & Service
+717,Bike Shop,Shop & Service
+718,Board Shop,Shop & Service
+719,Bookstore,Shop & Service
+720,Bridal Shop,Shop & Service
+721,Business Service,Shop & Service
+722,Camera Store,Shop & Service
+723,Candy Store,Shop & Service
+724,Car Wash,Shop & Service
+725,Carpet Store,Shop & Service
+726,Check Cashing Service,Shop & Service
+727,Daycare,Shop & Service
+728,Child Care Service,Shop & Service
+729,Chocolate Shop,Shop & Service
+730,Accessories Store,Shop & Service
+731,Boutique,Shop & Service
+732,Kids Store,Shop & Service
+733,Lingerie Store,Shop & Service
+734,Men's Store,Shop & Service
+735,Shoe Store,Shop & Service
+736,Women's Store,Shop & Service
+737,Clothing Store,Shop & Service
+738,Comic Shop,Shop & Service
+739,Construction & Landscaping,Shop & Service
+740,Convenience Store,Shop & Service
+741,Cosmetics Shop,Shop & Service
+742,Costume Shop,Shop & Service
+743,Credit Union,Shop & Service
+744,Currency Exchange,Shop & Service
+745,Department Store,Shop & Service
+746,Design Studio,Shop & Service
+747,Discount Store,Shop & Service
+748,Dive Shop,Shop & Service
+749,Drugstore,Shop & Service
+750,Dry Cleaner,Shop & Service
+751,EV Charging Station,Shop & Service
+752,Electronics Store,Shop & Service
+753,Entertainment Service,Shop & Service
+754,Event Service,Shop & Service
+755,Fabric Shop,Shop & Service
+756,Film Studio,Shop & Service
+757,Financial or Legal Service,Shop & Service
+758,Fireworks Store,Shop & Service
+759,Fishing Store,Shop & Service
+760,Flea Market,Shop & Service
+761,Floating Market,Shop & Service
+762,Flower Shop,Shop & Service
+763,Beer Store,Shop & Service
+764,Butcher,Shop & Service
+765,Cheese Shop,Shop & Service
+766,Dairy Store,Shop & Service
+767,Farmers Market,Shop & Service
+768,Fish Market,Shop & Service
+769,Food Service,Shop & Service
+770,Gourmet Shop,Shop & Service
+771,Grocery Store,Shop & Service
+772,Health Food Store,Shop & Service
+773,Kuruyemişçi,Shop & Service
+774,Liquor Store,Shop & Service
+775,Organic Grocery,Shop & Service
+776,Sausage Shop,Shop & Service
+777,Street Food Gathering,Shop & Service
+778,Supermarket,Shop & Service
+779,Turşucu,Shop & Service
+780,Wine Shop,Shop & Service
+781,Food & Drink Shop,Shop & Service
+782,Frame Store,Shop & Service
+783,Fruit & Vegetable Store,Shop & Service
+784,Lighting Store,Shop & Service
+785,Furniture / Home Store,Shop & Service
+786,Gaming Cafe,Shop & Service
+787,Garden Center,Shop & Service
+788,Gas Station,Shop & Service
+789,Gift Shop,Shop & Service
+790,Gun Shop,Shop & Service
+791,Hardware Store,Shop & Service
+792,Health & Beauty Service,Shop & Service
+793,Herbs & Spices Store,Shop & Service
+794,Hobby Shop,Shop & Service
+795,Home Service,Shop & Service
+796,Hunting Supply,Shop & Service
+797,IT Services,Shop & Service
+798,Insurance Office,Shop & Service
+799,Internet Cafe,Shop & Service
+800,Jewelry Store,Shop & Service
+801,Kitchen Supply Store,Shop & Service
+802,Knitting Store,Shop & Service
+803,Laundromat,Shop & Service
+804,Laundry Service,Shop & Service
+805,Lawyer,Shop & Service
+806,Leather Goods Store,Shop & Service
+807,Locksmith,Shop & Service
+808,Lottery Retailer,Shop & Service
+809,Luggage Store,Shop & Service
+810,Marijuana Dispensary,Shop & Service
+811,Market,Shop & Service
+812,Massage Studio,Shop & Service
+813,Mattress Store,Shop & Service
+814,Medical Supply Store,Shop & Service
+815,Miscellaneous Shop,Shop & Service
+816,Mobile Phone Shop,Shop & Service
+817,Mobility Store,Shop & Service
+818,Motorcycle Shop,Shop & Service
+819,Motorsports Shop,Shop & Service
+820,Music Store,Shop & Service
+821,Nail Salon,Shop & Service
+822,Newsstand,Shop & Service
+823,Notary,Shop & Service
+824,Optical Shop,Shop & Service
+825,Other Repair Shop,Shop & Service
+826,Outdoor Supply Store,Shop & Service
+827,Outlet Mall,Shop & Service
+828,Outlet Store,Shop & Service
+829,Paper / Office Supplies Store,Shop & Service
+830,Pawn Shop,Shop & Service
+831,Perfume Shop,Shop & Service
+832,Pet Service,Shop & Service
+833,Pet Store,Shop & Service
+834,Pharmacy,Shop & Service
+835,Photography Lab,Shop & Service
+836,Photography Studio,Shop & Service
+837,Piercing Parlor,Shop & Service
+838,Pop-Up Shop,Shop & Service
+839,Print Shop,Shop & Service
+840,Public Bathroom,Shop & Service
+841,Real Estate Office,Shop & Service
+842,Record Shop,Shop & Service
+843,Recording Studio,Shop & Service
+844,Recycling Facility,Shop & Service
+845,Rental Service,Shop & Service
+846,Salon / Barbershop,Shop & Service
+847,Sauna / Steam Room,Shop & Service
+848,Shipping Store,Shop & Service
+849,Shoe Repair,Shop & Service
+850,Shopping Mall,Shop & Service
+851,Shopping Plaza,Shop & Service
+852,Skate Shop,Shop & Service
+853,Ski Shop,Shop & Service
+854,Smoke Shop,Shop & Service
+855,Smoothie Shop,Shop & Service
+856,Souvenir Shop,Shop & Service
+857,Spa,Shop & Service
+858,Sporting Goods Shop,Shop & Service
+859,Stationery Store,Shop & Service
+860,Storage Facility,Shop & Service
+861,Supplement Shop,Shop & Service
+862,Tailor Shop,Shop & Service
+863,Tanning Salon,Shop & Service
+864,Tattoo Parlor,Shop & Service
+865,Thrift / Vintage Store,Shop & Service
+866,Toy / Game Store,Shop & Service
+867,Travel Agency,Shop & Service
+868,Used Bookstore,Shop & Service
+869,Vape Store,Shop & Service
+870,Video Game Store,Shop & Service
+871,Video Store,Shop & Service
+872,Warehouse Store,Shop & Service
+873,Watch Shop,Shop & Service
+874,Airport Food Court,Travel & Transport
+875,Airport Gate,Travel & Transport
+876,Airport Lounge,Travel & Transport
+877,Airport Service,Travel & Transport
+878,Airport Terminal,Travel & Transport
+879,Airport Tram,Travel & Transport
+880,Baggage Claim,Travel & Transport
+881,Plane,Travel & Transport
+882,Airport,Travel & Transport
+883,Baggage Locker,Travel & Transport
+884,Bike Rental / Bike Share,Travel & Transport
+885,Boat Rental,Travel & Transport
+886,Boat or Ferry,Travel & Transport
+887,Border Crossing,Travel & Transport
+888,Bus Line,Travel & Transport
+889,Bus Station,Travel & Transport
+890,Bus Stop,Travel & Transport
+891,Cable Car,Travel & Transport
+892,Cruise,Travel & Transport
+893,Duty-free Shop,Travel & Transport
+894,General Travel,Travel & Transport
+895,Heliport,Travel & Transport
+896,Bed & Breakfast,Travel & Transport
+897,Boarding House,Travel & Transport
+898,Hostel,Travel & Transport
+899,Hotel Pool,Travel & Transport
+900,Inn,Travel & Transport
+901,Motel,Travel & Transport
+902,Resort,Travel & Transport
+903,Vacation Rental,Travel & Transport
+904,Hotel,Travel & Transport
+905,Intersection,Travel & Transport
+906,Light Rail Station,Travel & Transport
+907,Metro Station,Travel & Transport
+908,Moving Target,Travel & Transport
+909,Pier,Travel & Transport
+910,Port,Travel & Transport
+911,RV Park,Travel & Transport
+912,Rental Car Location,Travel & Transport
+913,Rest Area,Travel & Transport
+914,Road,Travel & Transport
+915,Taxi Stand,Travel & Transport
+916,Taxi,Travel & Transport
+917,Toll Booth,Travel & Transport
+918,Toll Plaza,Travel & Transport
+919,Tourist Information Center,Travel & Transport
+920,Platform,Travel & Transport
+921,Train,Travel & Transport
+922,Train Station,Travel & Transport
+923,Tram Station,Travel & Transport
+924,Transportation Service,Travel & Transport
+925,Travel Lounge,Travel & Transport
+926,Tunnel,Travel & Transport
