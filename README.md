@@ -13,11 +13,16 @@ Local Moran's I (I=0.241, p=0.0048) of 83 Bangkok districts' venue value per cap
 ## Notebook link
 Global, Local Moran's I:
 - [venue value per capita](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/GIS-Bangkok-venue-value.ipynb)
-- [global/local morans - venue density](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/GIS-Bangkok-venue-density.ipynb) for visualizations
 
 Data Mining:
 - [Bangkok venues](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/Bangkok_venues.ipynb)
+- [Bangkok venue likes](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/Bangkok-venue-likes.ipynb)
 - [Bangkok district population](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/Bangkok_population.ipynb)
+- [Bangkok district saturation](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/Bangkok_district_saturation.ipynb)
+- [Foursquare request helpers](https://github.com/akbarry/Coursera_Capstone/blob/master/foursquare.py) 
+
+Other:
+- [Global/Local Moran's I - venue density](https://nbviewer.jupyter.org/github/akbarry/Coursera_Capstone/blob/master/GIS-Bangkok-venue-density.ipynb) for visualizations
 
 ## Report
 [Link](https://github.com/akbarry/Coursera_Capstone/blob/master/docs/Bangkok_Food_Venue_Hot_Spot_Analysis_Report.pdf)

@@ -2,7 +2,10 @@ import pandas as pd
 import numpy as np
 
 import geopandas as gpd
+import matplotlib.pyplot as plt
 
+import re
+import json
 import sys
 import time
 import requests
@@ -310,6 +313,26 @@ def rank_venues_by_frequency(neighborhood_venues):
     for ind in np.arange(neighborhood_venues.shape[0]):
         neighborhood_top_venues.iloc[ind, 1:] = return_most_common_venues(neighborhood_venues.iloc[ind, :], num_top_venues)
 
-    print(neighborhood_top_venues.head())
-    print(neighborhood_top_venues.shape)
     return neighborhood_top_venues
+
+def request_plot_save_venues(city_name=''):
+    # Helper to request, plot, and save city venues, given city name
+    if not city_name:
+        return
+    
+    trimmed_city_name = "".join(re.findall("[a-zA-Z]+", city_name))
+
+    try:
+        geo_df = gpd.read_file(f'data/{trimmed_city_name}_grid.geojson')
+    
+    except:
+        print('Exception occurred. Unable to find file')
+        return
+
+    venues_list = search_city_venues(city_name, grid_gdf=geo_df.geometry)
+    venues = pd.DataFrame(venues_list)
+
+    plt.scatter(x='Venue Latitude', y='Venue Longitude', data=venues)
+    plt.show()
+
+    venues.to_csv(f'data/{trimmed_city_name}_grid_venues.csv')
