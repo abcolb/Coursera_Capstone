@@ -4,6 +4,8 @@ _In partial fulfillment of IBM Data Science Capstone_
 
 Local Moran's I (I=0.241, p=0.0048) of 83 Bangkok districts' venue value per capita identified one hot spot (4 districts),  one cold spot (2 districts) and one geospatial outlier for targeted prospecting and market research. Sensitivity analysis produces an area of interest of districts which self-cluster into the entire southwest region (17 districts). Recommendations to a hypothetical business were made, starting with immediate prospecting in 'doughnut' outliers, which have potential to provide high value like their neighbors.
 
+![geospatial_reccs](https://user-images.githubusercontent.com/8182121/80268096-bf2ccf00-8672-11ea-8069-d049a6b7b7fb.png)
+
 **statistics**: Global Moran's I, Local Moran's I
 
 **competencies**: Geospatial hot spot analysis, multiple hypothesis testing, sensitivity analysis
